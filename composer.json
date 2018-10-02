@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4":
+		{
+		"App\\": "models"
+		}
+    },
+    "require": {
+        "phpoffice/phpexcel":"1.8.1",
+    	"mpdf/mpdf":"v6.0.0",
+    	"verot/class.upload.php": "dev-master"
+    }
+}
