@@ -4,7 +4,7 @@ A Personal Student Management & Customer Relationship Management System. This so
 - Manage staff and student database
 
 Some features and functionalities of this software include
-- Manage Student Database
+- Manage Student Database & Files
 - Manage Staff Database
 - Blogging
 - Manage Website (Home, About Us, Contact, Blog)
