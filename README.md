@@ -1,4 +1,4 @@
-# scrms
+# Student & Customer Relationship Management System
 A Personal Student Management & Customer Relationship Management System. This software will help you to
 - Connect with your staff and students
 - Manage staff and student database
