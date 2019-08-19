@@ -19,4 +19,4 @@ Login Credentials:
 - Role: Employee (Username: newuser, Password: secret)
 - Role: Student (Username: geomatry, Password: secret)
 
-[Detailed Documentation](https://1drv.ms/w/s!Ama1lLPSmmB4pyzwveqhXyv-Rx_S)
+[User Manual](https://1drv.ms/w/s!Ama1lLPSmmB4pyzwveqhXyv-Rx_S)
