@@ -8,7 +8,9 @@ Some features and functionalities of this software include
 - Manage Staff Database
 - Blogging
 - Manage Website (Home, About Us, Contact, Blog)
-- Manage Classes, Classroom, Sessions, Periods etc.
+- Manage Class Schedule, Classes, Classroom, Sessions, Periods etc.
+- Manage Notices
+- Recieve Complaints
 - Messaging & Notifications
 
 [Live Website Link](https://customer-relationship-management.000webhostapp.com/)
