@@ -8,7 +8,7 @@ Some features and functionalities of this software include
 - Manage Staff Database
 - Blogging
 - Manage Website (Home, About Us, Contact, Blog)
-- Manage Class Schedule, Classes, Classroom, Sessions, Periods etc.
+- Manage Class Schedule, Batches, Classroom, Periods etc.
 - Manage Notices
 - Recieve Complaints
 - Messaging & Notifications
