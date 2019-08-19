@@ -1,8 +1,8 @@
 # scrms
-A Personal Student Management System
-This software will help you to
+A Personal Student Management System. This software will help you to
 - Connect with your staff and students
 - Manage staff and student database
+
 Some features and functionalities of this software include
 - Manage Student Database
 - Manage Staff Database
