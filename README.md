@@ -6,8 +6,6 @@ A Personal Student Management & Customer Relationship Management System. This so
 Some features and functionalities of this software include
 - Manage Student Database & Files
 - Manage Staff Database
-- Blogging
-- Manage Website (Home, About Us, Contact, Blog)
 - Manage Class Schedule, Batches, Classroom, Periods etc.
 - Manage Notices
 - Recieve Complaints
