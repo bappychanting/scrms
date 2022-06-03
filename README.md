@@ -11,7 +11,7 @@ Some features and functionalities of this software include
 - Recieve Complaints
 - Messaging & Notifications
 
-[Live Website Link](http://scrms.amrameghnabasi.org/)
+[Live Website Link](https://scrms.000webhostapp.com)
 
 Login Credentials:
 - Role: Super Admin (Username: superadmin, Password: secret)
