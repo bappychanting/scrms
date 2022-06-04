@@ -16,10 +16,6 @@
         $pdo_options[PDO::ATTR_ERRMODE] = PDO::ERRMODE_EXCEPTION;
         // For Wamp Server
         // self::$instance = new PDO('mysql:host=localhost;dbname=crm', 'root', '', $pdo_options);
-        // For Lamp Server
-        self::$instance = new PDO('mysql:host=localhost;dbname=scrms', 'admin', 'secret', $pdo_options);
-        // For Online Server
-        // self::$instance = new PDO('mysql:host=localhost;dbname=id3902969_crm', 'id3902969_root', 'mahadihasan', $pdo_options);
       }
       return self::$instance;
     }
