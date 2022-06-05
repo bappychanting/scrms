@@ -16,7 +16,7 @@ Some features and functionalities of this software include
 Login Credentials:
 - Role: Super Admin (Username: superadmin, Password: secret)
 - Role: Administrator (Username: bappy, Password: secret)
-- Role: Employee (Username: newuser, Password: secret)
-- Role: Student (Username: geomatry, Password: secret)
+- Role: Employee (Username: employee, Password: secret)
+- Role: Student (Username: student, Password: secret)
 
 [User Manual](https://1drv.ms/b/s!Ama1lLPSmmB4un2d_P6N3ETgzzF-?e=tfscwg)
