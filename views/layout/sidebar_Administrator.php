@@ -172,7 +172,7 @@
                     &copy; <?php echo date('Y'); ?> <a href="http://djit.ac/" target="_blank">Student Management System</a>.
                 </div>
                 <div class="version">
-                   <b>Developed by: </b> <a href="http://www.mahadihasanbappy.info" target="blank">Mahadi Hasan</a>
+                   <b>Developed by: </b> <a href="http://mhasan.infinityfreeapp.com" target="blank">Mahadi Hasan</a>
                 </div>
             </div>
             <!-- #Footer -->
